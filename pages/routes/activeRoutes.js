@@ -1,5 +1,5 @@
 import React, { style } from 'react';
-import styles from '../../styles/activeRoutes.module.css';
+import styles from '../../styles/ActiveRoutes.module.css';
 
 import SpeedDial from '@mui/material/SpeedDial';
 import SpeedDialIcon from '@mui/material/SpeedDialIcon';
@@ -9,8 +9,8 @@ import AccessTimeIcon from '@mui/icons-material/AccessTime';
 import CheckIcon from '@mui/icons-material/Check';
 import CloseIcon from '@mui/icons-material/Close';
 
-import Header from '../layouts/Header'
-import Footer from '../layouts/Footer' 
+import Header from '../layouts/header'
+import Footer from '../layouts/footer' 
 
 const  ActiveRoutes = () => {
     
