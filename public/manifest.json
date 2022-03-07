@@ -3,7 +3,7 @@
     "background_color": "#9BDFE6",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/",
+    "start_url": "/login",
     "name": "Lidia",
     "short_name": "Lidia",
     "description": "Lidia Dev",
